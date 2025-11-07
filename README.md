@@ -26,4 +26,4 @@ Para acessar a aplicação em desenvolvimento, é necessário executar o Backend
 
 ### Em produção
 
-Para acessar a aplicação em produção, acesse pela seguinte URL: https://tis-3.vercel.app/
+Para acessar a aplicação em produção, acesse pela seguinte URL: https://tis-3.vercel.app/ ( Site inoperante no momento, video explicativo em Divulgação -> Video -> Video.mp4 )
