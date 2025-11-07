@@ -1,0 +1,13 @@
+.whatsappBtn{
+    position: fixed;
+    padding: 1rem;
+    width: 18rem; 
+    bottom: 10px;
+    left: 20px;
+    transition: 0.1s ease-in;
+    margin: 0;
+}
+
+.whatsappBtn:hover{
+    padding: 0;
+}
