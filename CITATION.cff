@@ -1,0 +1,35 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Bolo no pote
+authors:
+  - family-names: D'Almeida
+    given-names: Marcelo Aguilar Araújo
+  - family-names: Drumond
+    given-names: Raphael Marques Baião de Oliveira
+  - family-names: Martins
+    given-names: Diogo Martins de Assis
+  - family-names: Carvalho
+    given-names: Lucas de Carvalho Barbosa
+  - family-names: Felipe
+    given-names: Sthel Felipe Torres
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alonso Veloso
+    given-names: Eveline
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Henrique Pereira
+    given-names: Lucas
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Pongelupe
+    given-names: Pedro
+keywords:
+  - Bolo
+  - Marketplace
+  - Comida
+  - Doce
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti3-8981100-bolo-no-pote/tree/master/Codigo
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2024-06-19
